@@ -10,3 +10,10 @@
     top: 50%;
     transform: translateY(-50%);
 }
+
+.hero {
+    background-image: url(hero.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 70vh;
+}
